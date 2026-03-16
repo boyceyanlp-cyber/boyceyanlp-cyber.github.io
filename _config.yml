@@ -1,5 +1,5 @@
-title: Boyce
-description: Thoughts on AI, language, and the third phase transition
+title: 常想
+description: 关于语言、智慧与世界的思考
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
