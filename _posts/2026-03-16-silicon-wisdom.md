@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "判断力第一次离开了身体"
 date: 2026-03-16
 description: "关于语言、智慧与第三次相变的几个判断"

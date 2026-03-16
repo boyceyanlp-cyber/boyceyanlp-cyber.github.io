@@ -1,9 +1,0 @@
-baseURL = 'https://boyceyanlp-cyber.github.io/'
-languageCode = 'zh-cn'
-title = 'Boyce'
-theme = 'paper'
-
-[params]
-  disqus = false
-  twitter = false
-  github = 'boyceyanlp-cyber'
